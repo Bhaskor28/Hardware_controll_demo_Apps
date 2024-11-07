@@ -1,16 +1,24 @@
-# w1
+# Galiboy Flutter App
 
-A new Flutter project.
+A simple Flutter app demonstrating the use of `AppBar`, `Drawer`, `BottomNavigationBar`, and multiple `Container` widgets within a scrollable layout.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Custom AppBar**: Contains a title and a profile picture on the right side.
+- **Side Drawer**: Includes navigation options such as Account, Notifications, Calls, and Logout.
+- **Scrollable Body**: Three different sections ("Div 1", "Div 2", and "Div 3") displayed using `Container` widgets inside a scrollable `Column`.
+- **Floating Action Button**: A button at the bottom right for additional actions.
+- **Bottom Navigation Bar**: Provides quick access to Home, Search, and Standing sections.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+### Prerequisites
+
+- **Flutter**: Make sure Flutter SDK is installed on your system. You can follow the [Flutter installation guide](https://flutter.dev/docs/get-started/install) for setup instructions.
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/galiboy-flutter-app.git
